@@ -1,3 +1,3 @@
 def gato():
-    return gato()
+    return gato("hola")
 
