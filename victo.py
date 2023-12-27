@@ -7,3 +7,6 @@ Variable = "caleb ni puede hacer un commit"
 Nueva_VARIABLE = "nueva"
 
 otra_variable= "otra"
+
+
+otra_variable= "otra"
