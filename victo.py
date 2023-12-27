@@ -8,4 +8,9 @@ Nueva_VARIABLE = "nueva"
 
 otra_variable= "otra"
 
+<<<<<<< HEAD
 #####DSFKSDLÑFKSÑLDKFÑSLDK
+=======
+
+otra_variable= "otra"
+>>>>>>> dev-caleb
