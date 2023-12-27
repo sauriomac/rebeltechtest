@@ -3,7 +3,4 @@
 
 ###git commmit -m "nuevo mensaje"
 
-##git push
-
-
-otro cambio 1131ºu23eiwedihsdfs
+caleb ni puede hacer un commit
